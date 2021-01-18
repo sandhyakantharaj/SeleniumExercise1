@@ -35,7 +35,7 @@ public class Exercise1 {
 		System.out.println(Un);
 		
 		if(Un.contentEquals("test")) {
-			System.out.println("Success");
+			System.out.println("Validation Success message:Pass");
 		}
 		else {
 			System.out.println("Fail");
